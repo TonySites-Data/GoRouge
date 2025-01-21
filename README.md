@@ -1,4 +1,4 @@
-# GoRouge - Penetration Testing Tool
+# GoRogue - Penetration Testing Tool
 
 This is a project known as a "hacking tool" website. **It contains actual hacking or penetration testing functionality.**  It's intended for Ethical Hacking **ONLY**.
 
@@ -6,7 +6,7 @@ This is a project known as a "hacking tool" website. **It contains actual hackin
 
 ## About
 
-GoRouge presents itself as the "ultimate hacking unlocked" tool. This project aims to:
+GoRogue presents itself as the "ultimate hacking unlocked" tool. This project aims to:
 
 * **Secure Data:** This app can help lock down Secure data, and help make sure **YOU** are safe from breaches.
 * **Educate:**  Illustrate the importance of critical thinking and online safety.
@@ -26,6 +26,6 @@ While this is primarily a simple project,  contributions are welcome! You could 
 
 * More over-the-top features
 
-Feel free to chat about *GoRouge* anytime!
+Feel free to chat about *GoRogue* anytime!
 
-(Note: *GoRouge* is in Beta, Stay up to date with Updates!)
+(Note: *GoRogue* is in Beta, Stay up to date with Updates!)
